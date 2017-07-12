@@ -1,0 +1,40 @@
+1. D. S. Abrams and S. Lloyd, “Simulation ofMany-Body Fermi Systems on a Universal Quantum
+Computer,” Phys. Rev. Lett., Volume 79, Issue 13 (1997) pp. 2586–2589.
+2. D. Abrams and S. Lloyd, “Quantum Algorithm Providing Exponential Speed Increase for
+Finding Eigenvalues and Eigenvectors,” Phys. Rev. Lett., Volume 83, Issue 24 (1999) pp.
+5162–5165.
+3. D. S. Abrams and C. P. Williams, “Fast Quantum Algorithms for Numerical Integrals and
+Stochastic Processes,” arXiv:quant-ph/9908083 (1999).
+4. D. Achlioptas, A. Naor, and Y. Peres, “Rigorous Location of Phase Transitions in Hard Optimization
+Problems,” Nature, Volume 435 (2005) pp. 759–764.
+5. L. Adleman and M. Huang, “Recognizing Primes in Random Polynomial Time,” in Proceedings
+of ACM STOC’87 (1987) pp. 462–470.
+6. M. Agrawal, N. Kayal, and N. Saxena, “PRIMES Is in P,” Annals of Mathematics, Volume
+160 (2004) pp. 781–793.
+7. D. Aharonov and M. Ben-Or, “Fault-Tolerant Quantum Computation with Constant Error,” in
+Proceedings of the 29th Annual ACM Symposium on Theory of Computing, (1997) pp. 176–
+188.
+8. D. Aharonov, W. van Dam, J. Kempe, Z. Landau, S. Lloyd, and O. Regev, “Adiabatic Quantum
+Computation is Equivalent to Standard Quantum Computation,” in Proceedings of the
+45th Annual IEEE Symposium on Foundations of Computer Science (FOCS’04), IEEE Computer
+Society, Washington (2004) pp. 42–51.
+9. N. Ahmed, T. Natarajan, and K. R. Rao, “Discrete Cosine Transform,” IEEE Trans. Computer,
+Volume C-23, Issue 1 (1974) pp. 90–93.
+10. G. M. Akselrod, J. B. Altepeter, E. R. Jeffrey, and P. G. Kwiat, “Phase-compensated Ultrabright
+Source of Entangled Photons: Erratum,” Opt. Express, Volume 15 (2007) pp. 5260–
+5261.
+11. P. Aliferis, “Level Reduction and the Quantum Threshold Theorem,” Ph.D. Thesis, California
+Institute of Technology, Pasadena, CA, arXiv:quant-ph/0703230v1 (2007).
+12. L. Allen, M. W. Beijersbergen, R. J. C. Spreeuw, and J. P. Woerdman, “Orbital Angular
+Momentum of Light and the Transformation of Laguerre-Gaussian Laser Modes,” Phys. Rev.
+A, Volume 45, Issue 11 (1992) pp. 8185–8189.
+13. J. B. Altepeter, E. Jeffrey, and P. G. Kwiat, “Phase-compensated Ultra-bright Source of Entangled
+Photons,” Opt. Express, Volume 13 (2005) p. 8951.
+14. “A Mathematical Theory of Communication,” The Bell System Technical Journal, Volume
+27, pp. 379–423, 623–656 (1948).
+15. P.W. Anderson, “When the Electron Falls Apart,” Physics Today, Volume 50, Issue 10 (1997)
+pp. 42–47.
+C.P. Williams, Explorations in Quantum Computing,
+Texts in Computer Science,
+DOI 10.1007/978-1-84628-887-6, © Springer-Verlag London Limited 2011
+663
